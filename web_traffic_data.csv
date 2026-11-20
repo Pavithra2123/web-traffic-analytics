@@ -1,0 +1,11 @@
+Date,Visitors,PageViews,TrafficSource,Device,BounceRate
+2026-01-01,120,300,Google,Mobile,45
+2026-01-02,150,400,Direct,Desktop,40
+2026-01-03,180,450,Social Media,Mobile,50
+2026-01-04,100,250,Google,Tablet,55
+2026-01-05,200,500,Direct,Desktop,35
+2026-01-06,250,600,Google,Mobile,30
+2026-01-07,220,550,Social Media,Desktop,42
+2026-01-08,300,700,Google,Mobile,28
+2026-01-09,280,650,Direct,Tablet,38
+2026-01-10,350,800,Social Media,Desktop,25
