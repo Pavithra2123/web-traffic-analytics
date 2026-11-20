@@ -57,8 +57,8 @@ The dataset contains 10 records and 6 columns.
 - Visitors by Device (Bar Chart)
 
 ## Project Files
-- Web_Traffic_Analytics.ipynb
-- web_traffic_data(1).csv
+- Web_Traffic_Analytics(1).ipynb
+- web_traffic_data.csv
 - README.md
 
 ## Conclusion
